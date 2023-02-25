@@ -16,15 +16,13 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/alecthomas/jsonschema v0.0.0-20190504002508-159cbd5dba26
-	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/alexflint/go-filemutex v0.0.0-20171028004239-d358565f3c3f
 	github.com/andygrunwald/go-gerrit v0.0.0-20181026193842-43cfd7a94eb4
 	github.com/andygrunwald/go-jira v1.5.0
 	github.com/antham/chyle v1.6.0
-	github.com/aws/aws-sdk-go v1.30.16
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/awslabs/goformation v0.0.0-20190320125420-ac0a17860cf1
 	github.com/banzaicloud/bank-vaults v0.0.0-20191212164220-b327d7f2b681
-	github.com/banzaicloud/bank-vaults/pkg/sdk v0.2.1 // indirect
 	github.com/beevik/etree v1.0.1
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/briandowns/spinner v1.7.0 // indirect
